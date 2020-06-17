@@ -38,3 +38,5 @@ Event log (306648 events x 4 fields)
   * amount: (numeric) money spent in "transaction"
   * reward: (numeric) money gained from "offer completed"
 * time: (numeric) hours after start of test
+
+The medium article on the data analysis can be found in this [link](https://medium.com/@vishalkrishna.bhosle/starbucks-capstone-challenge-35e3b8c6b328)
